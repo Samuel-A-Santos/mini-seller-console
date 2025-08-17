@@ -1,0 +1,902 @@
+[
+  {
+    "id": "lead-001",
+    "name": "Alexander Smith",
+    "company": "AccelTech Solutions",
+    "email": "alexander.smith@acceltech.com",
+    "source": "Website",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "lead-002",
+    "name": "Barbara Johnson",
+    "company": "Beta Digital",
+    "email": "barbara.johnson@betadigital.com",
+    "source": "LinkedIn",
+    "score": 92,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-003",
+    "name": "Christopher Brown",
+    "company": "CloudCore Labs",
+    "email": "c.brown@cloudcore.com",
+    "source": "Referral",
+    "score": 78,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-004",
+    "name": "Diana Davis",
+    "company": "DataFlow Inc",
+    "email": "diana.davis@dataflow.io",
+    "source": "Conference",
+    "score": 95,
+    "status": "new"
+  },
+  {
+    "id": "lead-005",
+    "name": "Edward Wilson",
+    "company": "EdgeTech Ventures",
+    "email": "edward@edgetech.co",
+    "source": "Website",
+    "score": 67,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-006",
+    "name": "Fiona Anderson",
+    "company": "FutureSoft Corp",
+    "email": "fiona.anderson@futuresoft.com",
+    "source": "Email Campaign",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-007",
+    "name": "George Taylor",
+    "company": "GrowthMax Technologies",
+    "email": "george.taylor@growthmax.net",
+    "source": "Social Media",
+    "score": 73,
+    "status": "new"
+  },
+  {
+    "id": "lead-008",
+    "name": "Helena Martinez",
+    "company": "HyperScale Solutions",
+    "email": "helena@hyperscale.com",
+    "source": "Referral",
+    "score": 91,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-009",
+    "name": "Ivan Lee",
+    "company": "InnovateLab Systems",
+    "email": "ivan.lee@innovatelab.com",
+    "source": "Conference",
+    "score": 82,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-010",
+    "name": "Julia White",
+    "company": "JumpStart Digital",
+    "email": "julia.white@jumpstart.com",
+    "source": "LinkedIn",
+    "score": 79,
+    "status": "new"
+  },
+  {
+    "id": "lead-011",
+    "name": "Kevin Garcia",
+    "company": "KnowledgeWorks",
+    "email": "kevin.garcia@knowledgeworks.com",
+    "source": "Website",
+    "score": 86,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-012",
+    "name": "Laura Thompson",
+    "company": "LaunchPad Innovations",
+    "email": "laura@launchpad.io",
+    "source": "Email Campaign",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-013",
+    "name": "Michael Rodriguez",
+    "company": "MegaStream Corp",
+    "email": "michael.rodriguez@megastream.com",
+    "source": "Referral",
+    "score": 71,
+    "status": "new"
+  },
+  {
+    "id": "lead-014",
+    "name": "Nancy Clark",
+    "company": "NextGen Analytics",
+    "email": "nancy.clark@nextgen.com",
+    "source": "Conference",
+    "score": 89,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-015",
+    "name": "Oliver Lewis",
+    "company": "OptimalFlow Works",
+    "email": "oliver.lewis@optimalflow.com",
+    "source": "Social Media",
+    "score": 76,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-016",
+    "name": "Patricia Moore",
+    "company": "PowerTech Dynamics",
+    "email": "patricia.moore@powertech.com",
+    "source": "Website",
+    "score": 83,
+    "status": "new"
+  },
+  {
+    "id": "lead-017",
+    "name": "Quincy Adams",
+    "company": "QuickStart Solutions",
+    "email": "quincy.adams@quickstart.com",
+    "source": "LinkedIn",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-018",
+    "name": "Rachel Turner",
+    "company": "RapidScale Tech",
+    "email": "rachel.turner@rapidscale.com",
+    "source": "Email Campaign",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-019",
+    "name": "Samuel Phillips",
+    "company": "SmartFlow Industries",
+    "email": "samuel.phillips@smartflow.com",
+    "source": "Referral",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "lead-020",
+    "name": "Teresa Campbell",
+    "company": "TechForward Corp",
+    "email": "teresa.campbell@techforward.com",
+    "source": "Conference",
+    "score": 87,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-021",
+    "name": "Ulrich Parker",
+    "company": "UltraMax Systems",
+    "email": "ulrich.parker@ultramax.com",
+    "source": "Social Media",
+    "score": 75,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-022",
+    "name": "Victoria Evans",
+    "company": "VelocityTech Labs",
+    "email": "victoria.evans@velocitytech.com",
+    "source": "Website",
+    "score": 93,
+    "status": "new"
+  },
+  {
+    "id": "lead-023",
+    "name": "William Mitchell",
+    "company": "WaveLength Solutions",
+    "email": "william.mitchell@wavelength.com",
+    "source": "LinkedIn",
+    "score": 80,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-024",
+    "name": "Ximena Roberts",
+    "company": "XpertFlow Technologies",
+    "email": "ximena.roberts@xpertflow.com",
+    "source": "Email Campaign",
+    "score": 81,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-025",
+    "name": "Yusuf Cook",
+    "company": "YieldMax Innovations",
+    "email": "yusuf.cook@yieldmax.com",
+    "source": "Referral",
+    "score": 74,
+    "status": "new"
+  },
+  {
+    "id": "lead-026",
+    "name": "Zoe Bailey",
+    "company": "ZenithTech Corp",
+    "email": "zoe.bailey@zenithtech.com",
+    "source": "Conference",
+    "score": 96,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-027",
+    "name": "Aaron Cooper",
+    "company": "Apex Digital Solutions",
+    "email": "aaron.cooper@apexdigital.com",
+    "source": "Social Media",
+    "score": 68,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-028",
+    "name": "Beatrice Rivera",
+    "company": "BrightPath Technologies",
+    "email": "beatrice.rivera@brightpath.com",
+    "source": "Website",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "lead-029",
+    "name": "Carlos Peterson",
+    "company": "CatalystFlow Inc",
+    "email": "carlos.peterson@catalystflow.com",
+    "source": "LinkedIn",
+    "score": 72,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-030",
+    "name": "Deborah Reed",
+    "company": "DeepTech Innovations",
+    "email": "deborah.reed@deeptech.com",
+    "source": "Email Campaign",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-031",
+    "name": "Erik Murphy",
+    "company": "EliteScale Systems",
+    "email": "erik.murphy@elitescale.com",
+    "source": "Referral",
+    "score": 78,
+    "status": "new"
+  },
+  {
+    "id": "lead-032",
+    "name": "Frances Ward",
+    "company": "FlexiTech Solutions",
+    "email": "frances.ward@flexitech.com",
+    "source": "Conference",
+    "score": 91,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-033",
+    "name": "Gabriel Torres",
+    "company": "GigaFlow Technologies",
+    "email": "gabriel.torres@gigaflow.com",
+    "source": "Social Media",
+    "score": 76,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-034",
+    "name": "Hannah Powell",
+    "company": "HighVelocity Corp",
+    "email": "hannah.powell@highvelocity.com",
+    "source": "Website",
+    "score": 82,
+    "status": "new"
+  },
+  {
+    "id": "lead-035",
+    "name": "Isaac Jenkins",
+    "company": "InfiniteScale Labs",
+    "email": "isaac.jenkins@infinitescale.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-036",
+    "name": "Jasmine Perry",
+    "company": "JetStream Solutions",
+    "email": "jasmine.perry@jetstream.com",
+    "source": "Email Campaign",
+    "score": 84,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-037",
+    "name": "Kyle Howard",
+    "company": "KineticFlow Systems",
+    "email": "kyle.howard@kineticflow.com",
+    "source": "Referral",
+    "score": 79,
+    "status": "new"
+  },
+  {
+    "id": "lead-038",
+    "name": "Linda Russell",
+    "company": "LightSpeed Technologies",
+    "email": "linda.russell@lightspeedtech.com",
+    "source": "Conference",
+    "score": 93,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-039",
+    "name": "Marcus Griffin",
+    "company": "MaxVelocity Inc",
+    "email": "marcus.griffin@maxvelocity.com",
+    "source": "Social Media",
+    "score": 70,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-040",
+    "name": "Nina Diaz",
+    "company": "NeoFlow Innovations",
+    "email": "nina.diaz@neoflow.com",
+    "source": "Website",
+    "score": 88,
+    "status": "new"
+  },
+  {
+    "id": "lead-041",
+    "name": "Oscar Hayes",
+    "company": "OptimaTech Solutions",
+    "email": "oscar.hayes@optimatech.com",
+    "source": "LinkedIn",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-042",
+    "name": "Priscilla Myers",
+    "company": "PrecisionFlow Corp",
+    "email": "priscilla.myers@precisionflow.com",
+    "source": "Email Campaign",
+    "score": 86,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-043",
+    "name": "Quentin Fisher",
+    "company": "QuantumLeap Technologies",
+    "email": "quentin.fisher@quantumleap.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "new"
+  },
+  {
+    "id": "lead-044",
+    "name": "Rosa Butler",
+    "company": "RocketFlow Systems",
+    "email": "rosa.butler@rocketflow.com",
+    "source": "Conference",
+    "score": 92,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-045",
+    "name": "Steven Simmons",
+    "company": "StreamlineMax Inc",
+    "email": "steven.simmons@streamlinemax.com",
+    "source": "Social Media",
+    "score": 77,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-046",
+    "name": "Tiffany Foster",
+    "company": "TurboTech Solutions",
+    "email": "tiffany.foster@turbotech.com",
+    "source": "Website",
+    "score": 83,
+    "status": "new"
+  },
+  {
+    "id": "lead-047",
+    "name": "Ulysses Gonzales",
+    "company": "UltimateFlow Corp",
+    "email": "ulysses.gonzales@ultimateflow.com",
+    "source": "LinkedIn",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-048",
+    "name": "Valerie Bryant",
+    "company": "VanguardTech Labs",
+    "email": "valerie.bryant@vanguardtech.com",
+    "source": "Email Campaign",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-049",
+    "name": "Wayne Alexander",
+    "company": "WarpSpeed Systems",
+    "email": "wayne.alexander@warpspeed.com",
+    "source": "Referral",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "lead-050",
+    "name": "Yolanda Washington",
+    "company": "YottaTech Innovations",
+    "email": "yolanda.washington@yottatech.com",
+    "source": "Conference",
+    "score": 85,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-051",
+    "name": "Zachary Scott",
+    "company": "ZoomFlow Technologies",
+    "email": "zachary.scott@zoomflow.com",
+    "source": "Social Media",
+    "score": 78,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-052",
+    "name": "Adriana Green",
+    "company": "AgileMax Solutions",
+    "email": "adriana.green@agilemax.com",
+    "source": "Website",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "lead-053",
+    "name": "Brian Adams",
+    "company": "BlueWave Digital",
+    "email": "brian.adams@bluewave.com",
+    "source": "LinkedIn",
+    "score": 72,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-054",
+    "name": "Cassandra Nelson",
+    "company": "CoreTech Dynamics",
+    "email": "cassandra.nelson@coretech.com",
+    "source": "Email Campaign",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-055",
+    "name": "Dominic Carter",
+    "company": "DynamicFlow Inc",
+    "email": "dominic.carter@dynamicflow.com",
+    "source": "Referral",
+    "score": 80,
+    "status": "new"
+  },
+  {
+    "id": "lead-056",
+    "name": "Elena Mitchell",
+    "company": "EcoTech Solutions",
+    "email": "elena.mitchell@ecotech.com",
+    "source": "Conference",
+    "score": 86,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-057",
+    "name": "Franklin Perez",
+    "company": "FastTrack Technologies",
+    "email": "franklin.perez@fasttrack.com",
+    "source": "Social Media",
+    "score": 73,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-058",
+    "name": "Grace Roberts",
+    "company": "GlobalFlow Corp",
+    "email": "grace.roberts@globalflow.com",
+    "source": "Website",
+    "score": 89,
+    "status": "new"
+  },
+  {
+    "id": "lead-059",
+    "name": "Henry Turner",
+    "company": "HyperDrive Systems",
+    "email": "henry.turner@hyperdrive.com",
+    "source": "LinkedIn",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-060",
+    "name": "Iris Phillips",
+    "company": "InnoStream Labs",
+    "email": "iris.phillips@innostream.com",
+    "source": "Email Campaign",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-061",
+    "name": "Jordan Campbell",
+    "company": "JumpFlow Technologies",
+    "email": "jordan.campbell@jumpflow.com",
+    "source": "Referral",
+    "score": 77,
+    "status": "new"
+  },
+  {
+    "id": "lead-062",
+    "name": "Katherine Parker",
+    "company": "KryptoTech Solutions",
+    "email": "katherine.parker@kryptotech.com",
+    "source": "Conference",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-063",
+    "name": "Leonardo Evans",
+    "company": "LaserFlow Inc",
+    "email": "leonardo.evans@laserflow.com",
+    "source": "Social Media",
+    "score": 79,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-064",
+    "name": "Monica Edwards",
+    "company": "MicroStream Corp",
+    "email": "monica.edwards@microstream.com",
+    "source": "Website",
+    "score": 82,
+    "status": "new"
+  },
+  {
+    "id": "lead-065",
+    "name": "Nathan Collins",
+    "company": "NanoTech Dynamics",
+    "email": "nathan.collins@nanotech.com",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-066",
+    "name": "Olivia Stewart",
+    "company": "OmegaFlow Solutions",
+    "email": "olivia.stewart@omegaflow.com",
+    "source": "Email Campaign",
+    "score": 85,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-067",
+    "name": "Pedro Sanchez",
+    "company": "ProStream Technologies",
+    "email": "pedro.sanchez@prostream.com",
+    "source": "Referral",
+    "score": 71,
+    "status": "new"
+  },
+  {
+    "id": "lead-068",
+    "name": "Quinn Morris",
+    "company": "QuasarTech Inc",
+    "email": "quinn.morris@quasartech.com",
+    "source": "Conference",
+    "score": 93,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-069",
+    "name": "Rebecca Rogers",
+    "company": "RapidCore Systems",
+    "email": "rebecca.rogers@rapidcore.com",
+    "source": "Social Media",
+    "score": 75,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-070",
+    "name": "Sebastian Reed",
+    "company": "SuperFlow Labs",
+    "email": "sebastian.reed@superflow.com",
+    "source": "Website",
+    "score": 90,
+    "status": "new"
+  },
+  {
+    "id": "lead-071",
+    "name": "Tatiana Cook",
+    "company": "TechStream Corp",
+    "email": "tatiana.cook@techstream.com",
+    "source": "LinkedIn",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-072",
+    "name": "Ulrich Bailey",
+    "company": "UltraCore Technologies",
+    "email": "ulrich.bailey@ultracore.com",
+    "source": "Email Campaign",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-073",
+    "name": "Vanessa Cooper",
+    "company": "VectorFlow Solutions",
+    "email": "vanessa.cooper@vectorflow.com",
+    "source": "Referral",
+    "score": 74,
+    "status": "new"
+  },
+  {
+    "id": "lead-074",
+    "name": "Walter Rivera",
+    "company": "WaveMax Inc",
+    "email": "walter.rivera@wavemax.com",
+    "source": "Conference",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-075",
+    "name": "Yvonne Peterson",
+    "company": "YieldTech Dynamics",
+    "email": "yvonne.peterson@yieldtech.com",
+    "source": "Social Media",
+    "score": 86,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-076",
+    "name": "Zane Murphy",
+    "company": "ZeroMax Solutions",
+    "email": "zane.murphy@zeromax.com",
+    "source": "Website",
+    "score": 83,
+    "status": "new"
+  },
+  {
+    "id": "lead-077",
+    "name": "Angela Ward",
+    "company": "AeroFlow Technologies",
+    "email": "angela.ward@aeroflow.com",
+    "source": "LinkedIn",
+    "score": 79,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-078",
+    "name": "Benjamin Torres",
+    "company": "BinaryStream Corp",
+    "email": "benjamin.torres@binarystream.com",
+    "source": "Email Campaign",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-079",
+    "name": "Carmen Powell",
+    "company": "CyberFlow Inc",
+    "email": "carmen.powell@cyberflow.com",
+    "source": "Referral",
+    "score": 76,
+    "status": "new"
+  },
+  {
+    "id": "lead-080",
+    "name": "Derek Jenkins",
+    "company": "DigiMax Systems",
+    "email": "derek.jenkins@digimax.com",
+    "source": "Conference",
+    "score": 88,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-081",
+    "name": "Evelyn Perry",
+    "company": "ElectroFlow Labs",
+    "email": "evelyn.perry@electroflow.com",
+    "source": "Social Media",
+    "score": 82,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-082",
+    "name": "Felix Howard",
+    "company": "FlashStream Technologies",
+    "email": "felix.howard@flashstream.com",
+    "source": "Website",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "lead-083",
+    "name": "Giselle Russell",
+    "company": "GravityTech Solutions",
+    "email": "giselle.russell@gravitytech.com",
+    "source": "LinkedIn",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-084",
+    "name": "Harrison Griffin",
+    "company": "HelixFlow Corp",
+    "email": "harrison.griffin@helixflow.com",
+    "source": "Email Campaign",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-085",
+    "name": "Ingrid Diaz",
+    "company": "ImpactStream Inc",
+    "email": "ingrid.diaz@impactstream.com",
+    "source": "Referral",
+    "score": 73,
+    "status": "new"
+  },
+  {
+    "id": "lead-086",
+    "name": "Jasper Hayes",
+    "company": "JazzyTech Dynamics",
+    "email": "jasper.hayes@jazzytech.com",
+    "source": "Conference",
+    "score": 89,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-087",
+    "name": "Kimberly Myers",
+    "company": "KineticMax Solutions",
+    "email": "kimberly.myers@kineticmax.com",
+    "source": "Social Media",
+    "score": 80,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-088",
+    "name": "Lorenzo Fisher",
+    "company": "LaunchStream Technologies",
+    "email": "lorenzo.fisher@launchstream.com",
+    "source": "Website",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "lead-089",
+    "name": "Melanie Butler",
+    "company": "MetaFlow Systems",
+    "email": "melanie.butler@metaflow.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-090",
+    "name": "Nicholas Simmons",
+    "company": "NexusCore Inc",
+    "email": "nicholas.simmons@nexuscore.com",
+    "source": "Email Campaign",
+    "score": 75,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-091",
+    "name": "Ophelia Foster",
+    "company": "OrbitTech Labs",
+    "email": "ophelia.foster@orbittech.com",
+    "source": "Referral",
+    "score": 93,
+    "status": "new"
+  },
+  {
+    "id": "lead-092",
+    "name": "Phoenix Gonzales",
+    "company": "PlasmaFlow Corp",
+    "email": "phoenix.gonzales@plasmaflow.com",
+    "source": "Conference",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-093",
+    "name": "Quintessa Bryant",
+    "company": "QuantumCore Solutions",
+    "email": "quintessa.bryant@quantumcore.com",
+    "source": "Social Media",
+    "score": 86,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-094",
+    "name": "Rodrigo Alexander",
+    "company": "RocketMax Technologies",
+    "email": "rodrigo.alexander@rocketmax.com",
+    "source": "Website",
+    "score": 81,
+    "status": "new"
+  },
+  {
+    "id": "lead-095",
+    "name": "Sophia Washington",
+    "company": "StellarFlow Inc",
+    "email": "sophia.washington@stellarflow.com",
+    "source": "LinkedIn",
+    "score": 90,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-096",
+    "name": "Theodore Scott",
+    "company": "TitanStream Systems",
+    "email": "theodore.scott@titanstream.com",
+    "source": "Email Campaign",
+    "score": 74,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-097",
+    "name": "Ursula Green",
+    "company": "UltraDyne Labs",
+    "email": "ursula.green@ultradyne.com",
+    "source": "Referral",
+    "score": 88,
+    "status": "new"
+  },
+  {
+    "id": "lead-098",
+    "name": "Victor Adams",
+    "company": "VelocityMax Corp",
+    "email": "victor.adams@velocitymax.com",
+    "source": "Conference",
+    "score": 72,
+    "status": "contacted"
+  },
+  {
+    "id": "lead-099",
+    "name": "Wanda Nelson",
+    "company": "WarpCore Technologies",
+    "email": "wanda.nelson@warpcore.com",
+    "source": "Social Media",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "lead-100",
+    "name": "Xavier Carter",
+    "company": "XenoTech Solutions",
+    "email": "xavier.carter@xenotech.com",
+    "source": "Website",
+    "score": 83,
+    "status": "new"
+  }
+]
